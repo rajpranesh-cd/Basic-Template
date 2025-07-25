@@ -1,3 +1,3 @@
 # Project Name
 
-**Description**: Brief summary of project purpose.
+**Description**: summary of project purpose.
