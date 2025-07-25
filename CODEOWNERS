@@ -1,0 +1,10 @@
+# Specify file and path owners
+# @org/team or GitHub usernames
+
+# Default owner for everything
+* @org/sec-team
+
+# Specific owners per directory
+/docs/ @org/docs-team
+/src/ @org/dev-frontend @org/dev-backend
+/config/ @org/devops-team
